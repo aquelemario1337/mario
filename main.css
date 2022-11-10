@@ -1,0 +1,15 @@
+.div-bolos{
+    text-align: center;
+    font-size: 1.8rem;
+}
+.div-bolos h3{background-color: rgb(37, 37, 5);}
+.div-bolos ul{list-style-type: none;}
+.div-bolos ul li{padding: 10px 0px; text-transform: capitalize;}
+
+.img-bolos{
+    width: 75%;
+    height: 350px;
+    object-fit: fill;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgb(152, 233, 30);
+}
